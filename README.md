@@ -4,3 +4,10 @@ A few years ago, I wrote and recorded the edX course [Implementing Predictive An
 Microsoft now also offers Spark capabilities in the **Azure Databricks** service. This repo contains versions of the lab files that have been modified to use Azure Databricks.
 
 If you're new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
+
+Start by following the [Setup Guide](Setup%20Guide.pdf) to prepare your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises. Then complete the labs in the following order:
+1. [Lab 1 - Exploring Data with Spark](Lab 1 - Exploring Data with Spark.pdf).
+2. [Lab 2 - Building Supervised Learning Models](Lab 2 - Building Supervised Learning Models.pdf).
+3. [Lab 3 - Evaluating Supervised Learning Models](Lab 3 - Evaluating Supervised Learning Models.pdf).
+4. [Lab 4 - Recommenders and Clustering](Lab 4 - Recommenders and Clustering.pdf). 
+5. [Lab 5 - Using the MML Spark Library](Lab 5 - Using the MML Spark Library.pdf).

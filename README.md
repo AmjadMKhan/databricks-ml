@@ -3,37 +3,37 @@ A few years ago, I wrote and recorded the edX course [Implementing Predictive An
 
 Microsoft now also offers Spark capabilities in the **Azure Databricks** service. This repo contains versions of the lab files that have been modified to use Azure Databricks.
 
-If you're new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
+If you're completely new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
 
 ---
 
-## Introduction
+## Videos
 
-Click the image below to watch a video introducing these labs (you can right-click or CTRL+click to open it in a separate browser tab!)
+The following videos show some of the key concepts and techniques used in the labs. You can watch these to get an overview of using Spark to do machine learning in Azure Databricks; or if you prefer, you can skip straight to the [labs](#Labs). To watch the viodeos, click the image (or right-click/ CTRL+click to open the video in a separate browser tab).
+
+### Introduction
 
 <a href="https://www.youtube.com/watch?v=po4CqzSY-dU" target="_new"><img src="https://img.youtube.com/vi/po4CqzSY-dU/0.jpg"/></a>
 
-### Lab Setup
-
-* To get prepare for the labs, follow the [Setup Guide](Setup.pdf) to provision your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises.
-
----
-
-## Getting Started with Azure Databricks
-
-Watch the video below to learn how to provision a Databricks workspace in Microsoft Azure:
+### Getting Started with Azure Databricks
 
 <a href="https://youtu.be/W7h4AACN-BQ" target="_new"><img src="https://img.youtube.com/vi/W7h4AACN-BQ/0.jpg"/></a>
 
-Now watch the following video to learn how to use Spark to explore data:
+### Exploring Data with Spark
 
 <a href="https://youtu.be/SNw7aBxX9_Y" target="_new"><img src="https://img.youtube.com/vi/SNw7aBxX9_Y/0.jpg"/></a>
 
-### Lab 1: Exploring Data with Spark
+### Creating a Machine Learning Model with Spark
 
-* Complete the steps in [Lab 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
+<a href="https://youtu.be/LIfqBQez1Y0" target="_new"><img src="https://img.youtube.com/vi/LIfqBQez1Y0/0.jpg"/></a>.
 
+---
 
+## Labs
+
+Start by following the steps in the [Setup Guide](Setup.pdf) to provision your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises. Then complete the labs in the following order:
+
+1. [Lab 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Lab 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
 3. [Lab 3 - Evaluating Supervised Learning Models](Lab%203%20-%20Evaluating%20Supervised%20Learning%20Models.pdf).
 4. [Lab 4 - Recommenders and Clustering](Lab%204%20-%20Recommenders%20and%20Clustering.pdf). 

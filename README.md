@@ -9,7 +9,7 @@ If you're completely new to Spark and Databricks, you might want to check out th
 
 ## Videos
 
-The following videos show some of the key concepts and techniques used in the labs. You can watch these to get an overview of using Spark to do machine learning in Azure Databricks; or if you prefer, you can skip straight to the [labs](#Labs). To watch the viodeos, click the image (or right-click/ CTRL+click to open the video in a separate browser tab).
+The following videos show some of the key concepts and techniques used in the labs. You can watch these to get an overview of using Spark to do machine learning in Azure Databricks; or if you prefer, you can skip straight to the [labs](#labs). To watch the viodeos, click the image (or right-click/ CTRL+click to open the video in a separate browser tab).
 
 ### Introduction
 

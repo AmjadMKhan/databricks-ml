@@ -3,7 +3,7 @@ A few years ago, I wrote and recorded the edX course [Implementing Predictive An
 
 Microsoft now also offers Spark capabilities in the **Azure Databricks** service. This repo contains versions of the lab files that have been modified to use Azure Databricks.
 
-If you're completely new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
+If you're completely new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://aka.ms/dbintro) first!
 
 ---
 

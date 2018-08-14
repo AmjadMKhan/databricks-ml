@@ -5,7 +5,7 @@ Microsoft now also offers Spark capabilities in the **Azure Databricks** service
 
 If you're new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/po4CqzSY-dU/0.jpg)](https://www.youtube.com/watch?v=po4CqzSY-dU) 
+<a href="https://www.youtube.com/watch?v=po4CqzSY-dU" target="_blank"><img src="(https://img.youtube.com/vi/po4CqzSY-dU/0.jpg"/></a>
 
 Start by following the [Setup Guide](Setup.pdf) to prepare your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises. Then complete the labs in the following order:
 1. [Lab 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).

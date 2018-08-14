@@ -5,12 +5,25 @@ Microsoft now also offers Spark capabilities in the **Azure Databricks** service
 
 If you're new to Spark and Databricks, you might want to check out the [Introduction to Databricks Labs](https://github.com/MicrosoftLearning/databricks-intro) first!
 
-<hr/>
+---
+
 ### Introduction
+
 Click the image below to watch a video introducing these labs (you can right-click or CTRL+click to open it in a separate browser tab!)
+
 <a href="https://www.youtube.com/watch?v=po4CqzSY-dU" target="_new"><img src="https://img.youtube.com/vi/po4CqzSY-dU/0.jpg"/></a>
 
-Start by following the [Setup Guide](Setup.pdf) to prepare your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises. Then complete the labs in the following order:
+To get prepare for the labs, follow the [Setup Guide](Setup.pdf) to provision your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises.
+
+---
+
+### Getting Started with Azure Databricks
+
+Watch the video below to learn how to provision a Databricks workspace in Microsoft Azure:
+
+
+<a href="https://youtu.be/W7h4AACN-BQ" target="_new"><img src="https://img.youtube.com/vi/W7h4AACN-BQ/0.jpg"/></a>
+
 1. [Lab 1 - Exploring Data with Spark](Lab%201%20-%20Exploring%20Data%20with%20Spark.pdf).
 2. [Lab 2 - Building Supervised Learning Models](Lab%202%20-%20Building%20Supervised%20Learning%20Models.pdf).
 3. [Lab 3 - Evaluating Supervised Learning Models](Lab%203%20-%20Evaluating%20Supervised%20Learning%20Models.pdf).

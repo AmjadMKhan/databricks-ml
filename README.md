@@ -13,6 +13,8 @@ Click the image below to watch a video introducing these labs (you can right-cli
 
 <a href="https://www.youtube.com/watch?v=po4CqzSY-dU" target="_new"><img src="https://img.youtube.com/vi/po4CqzSY-dU/0.jpg"/></a>
 
+#### Lab Setup
+
 To get prepare for the labs, follow the [Setup Guide](Setup.pdf) to provision your Azure environment and download the [labfiles](DAT202.3x-databricks.zip) used in the lab exercises.
 
 ---
